@@ -1,0 +1,118 @@
+
+body{
+	  -webkit-font-smoothing: antialiased;
+	  -moz-osx-font-smoothing: grayscale;
+}
+
+.signin{
+	height:100px;
+	width:100%;
+}
+
+.login_img{
+	height:100%;
+	width:100%;
+	position:absolute;
+}
+.t1{
+	color:black;
+	font-size:200%;
+	text-align:center;
+}
+.a{
+	width:35px;
+	height:45px;
+	position:absolute;
+}
+
+.input1{
+	width:325px;
+	height:80px;
+	margin-left:15%;
+	position:absolute;
+	}
+.input2{
+	width:325px;
+	height:80px;
+	margin-left:15%;
+	margin-top:15%;
+	position:absolute;
+	}
+#form{
+	margin-top:70px;
+}
+.user{
+	height:40px;
+	width:320px;
+	margin-left:40px;
+	text-indent:10px;
+	font-size:120%;
+	border-color: MediumSeaGreen;
+	border-top:none;
+	border-left:none;
+	border-right:none;
+	border-bottom:2px solid MediumSeaGreen;
+}
+.c5{
+	position:absolute;
+	font-size:150%;
+	margin-top:17px;
+	margin-left:10px;
+}
+
+.user:focus{
+	outline:none;
+  }
+#box{
+	position:absolute;
+	margin-top:10px;
+	height:20px;
+	width:20px;
+}
+#submit{
+	width:80px;
+	height:40px;
+	background-color:MintCream;
+	margin-left:245px;
+	border-radius:5px;
+}
+#check{
+	margin-left:110px;
+	position:absolute;
+	margin-top:32%;
+}
+.t2{
+	color:black;
+	font-size:110%;
+	position:absolute;
+	margin-left:36px;
+	margin-top:10px;
+}
+.t3{
+	font-size:110%;
+	margin-left:180px;
+	text-decoration:none;
+}
+.t4{
+	color:black;
+	font-size:110%;
+	position:absolute;
+	margin-left:36px;
+	margin-top:0px;
+}
+
+#user_err{
+	margin-left:50px;
+	font-size:110%;
+	color:red;
+}
+#pass_err{
+	margin-left:50px;
+	font-size:110%;
+	color:red;
+}
+#link{
+	position:absolute;
+	margin-top:50%;
+	margin-left:20%;
+}
