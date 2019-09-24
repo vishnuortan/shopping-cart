@@ -32,9 +32,8 @@ body{
 	position:absolute;
 	}
 .input2{
-	width:325px;
-	height:80px;
 	margin-left:15%;
+	width:360px;
 	margin-top:15%;
 	position:absolute;
 	}
@@ -52,6 +51,24 @@ body{
 	border-left:none;
 	border-right:none;
 	border-bottom:2px solid MediumSeaGreen;
+}
+#password{
+	height:40px;
+	width:320px;
+	margin-left:40px;
+	text-indent:10px;
+	font-size:120%;
+	border-color: MediumSeaGreen;
+	border-top:none;
+	border-left:none;
+	border-right:none;
+	border-bottom:2px solid MediumSeaGreen;
+	outline:none;
+}
+#visibility{
+	position:absolute;
+	margin-left:-5%;
+	margin-top:3%;
 }
 .c5{
 	position:absolute;
@@ -104,15 +121,25 @@ body{
 #user_err{
 	margin-left:50px;
 	font-size:110%;
-	color:red;
+	color:red;	
 }
 #pass_err{
-	margin-left:50px;
+	margin-top:12%;
+	margin-left:-85%;
 	font-size:110%;
 	color:red;
-}
+	position:absolute;
+	}
 #link{
 	position:absolute;
+	width:500px;
 	margin-top:50%;
 	margin-left:20%;
+	font-size:110%;
+}
+.link1{
+	position:absolute;
+	margin-left:40%;
+	font-family:inherit;
+	text-decoration:none;
 }

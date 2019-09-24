@@ -1,0 +1,159 @@
+#filter11{
+	display:none;
+	}
+#filter12{
+	display:none;
+	}
+#filter13{
+	display:none;
+	}
+#filter14{
+	display:none;
+	}
+#root_trimm{
+	background-color:gray;
+	height:100%;
+	width:100%;
+}
+#holder{
+	background-color:white;
+	color:Black;
+	width:20%;
+	position:absolute;
+	border-radius:5px;
+	height:99.75%;
+	margin-top:0.1%;
+}
+#item{
+	width:79.5%;
+	margin-left:270px;
+	margin-top:0.1%;
+	height:99.75%;
+	background-color:white;
+	position:absolute;
+	border-radius:5px;
+	overflow-y:auto;
+}
+#wrapper{
+	margin-left:15%;
+	margin-top:10%;
+}
+#filter{
+	font-size:200%;
+	margin-left:25%;
+}
+.fil{
+	margin-top:20px;
+	font-size:140%;
+	width:220px;
+
+}
+.itemlist{
+	width:100%;
+	height:312px;
+	border-bottom:0.5px solid black;
+	
+}
+.buttonlist{
+	margin-top:24.25%;
+	margin-left:15%;
+	font-size:130%;
+	width:150px;
+	height:40px;
+	outline:none;
+	border:1.5px solid Orange;
+	background-color:white;
+	border-radius:5px;
+}
+.buttonlist:hover{
+	background-color:Orange;
+}
+.buttonlist2{
+	margin-top:24.25%;
+	margin-left:12%;
+	font-size:130%;
+	width:150px;
+	height:40px;
+	outline:none;
+	border:1.5px solid Orange;
+	background-color:white;
+	border-radius:5px;
+}
+.buttonlist2:hover{
+	background-color:Orange;
+}
+.imagelist{
+	height:35%;
+	width:16%;
+	margin-left:10%;
+}
+.imagelist2{
+	height:35%;
+	width:30%;
+	margin-left:10%;
+}
+.imagelist22{
+	margin-left:10%;
+	margin-top:6%;
+	position:absolute;
+}
+.imagelist21{
+	margin-left:15%;
+	margin-top:4%;
+	height:250px;
+	position:absolute;
+}
+.specs{
+	margin-left:6%;
+	margin-top:3%;
+}
+.specslist{
+	margin-top:10px;
+}
+.itemname{
+	font-size:200%;
+	margin-left:5%;
+	margin-top:1%;
+}
+.contentlist{
+	height:47%;
+	width:60%;
+	margin-left:40%;
+	margin-top:-280px;
+	position:absolute;
+}
+.prize{
+	margin-left:5%;
+	margin-top:8%;
+	width:150px;
+	font-size:150%;
+}
+.prizelist{
+	color:Tomato;
+	position:absolute;
+}
+#filter_button{
+	font-size:140%;
+	border-radius:5px;
+	border:1.5px solid MediumSeaGreen;
+	background-color:white;
+	width:240px;
+	height:40px;
+	margin-top:43%;
+	margin-left:1%;
+	position:absolute;
+	outline:none;
+}
+#filter_button:hover{
+		background-color:MediumSeaGreen;
+}
+.fil_content{
+	padding-top:5px;
+	margin-left:30px;
+}
+.nosearch{
+	margin-left:500px;
+	margin-top:150px;
+	font-size:220%;
+	color:red;
+}

@@ -1,0 +1,87 @@
+#creation{
+	height:140%;
+}
+.input3{
+	width:325px;
+	height:80px;
+	margin-left:15%;
+	margin-top:7%;
+	position:relative;
+	}
+#form2{
+	margin-top:3%;
+	border:1.2px solid black;
+	width:670px;
+	height:700px;
+	position:absolute;
+	border-radius:5px;
+	margin-left:25%;
+	 box-shadow: 10px 10px grey;
+	 position:absolute;
+}
+.user2{
+	height:40px;
+	width:400px;
+	text-indent:10px;
+	font-size:120%;
+	border-color: MediumSeaGreen;
+	border-top:none;
+	border-left:none;
+	border-right:none;
+	border-bottom:2px solid MediumSeaGreen;
+	margin-left:15%;
+	outline:none;
+}
+#submit2{
+	width:225px;
+	height:50px;
+	margin-left:35%;
+	margin-top:9%;
+	outline:none;
+	border:2px solid MediumSeaGreen;
+	background-color:white;
+	font-size:110%;
+	border-radius:5px;
+	position:absolute;
+}
+
+#pass2_err{
+	margin-left:15%;
+	font-size:110%;
+	color:red;
+	position:absolute;
+	}
+	
+#submit2:hover{
+	background-color:MediumSeaGreen;
+}
+#pass_check{
+	position:absolute;
+	margin-top:-10%;
+	margin-left:118%;
+	font-weight: bold;
+	font-size:120%;
+}
+#password_check{
+	margin-left:15%;
+	position:absolute;
+	color:red;
+	font-size:110%;
+}
+#confirm_err{
+	margin-left:15%;
+	position:absolute;
+	color:red;
+	font-size:110%;
+}
+#email_err{
+	margin-left:15%;
+	position:absolute;
+	color:red;
+	font-size:110%;
+}
+#link3{
+	margin-top:10%;
+	margin-left:35%;
+	position:absolute;
+}
